@@ -1,3 +1,5 @@
+# [2017-05-01] Challenge #313 [Easy] Subset sum
+
 def subset_sum(lst):
 	if len(lst) == 0:
 		return False

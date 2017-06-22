@@ -1,3 +1,5 @@
+# [2015-11-02] Challenge #239 [Easy] A Game of Threes
+
 def game_of_threes(input):
 	input = int(input)
 	if input == 1:

@@ -1,3 +1,5 @@
+// [04/01/13] Challenge #122 [Easy] Sum Them Digits
+
 public class sumDigits {
 
 	public static int sumThemDigits(int input) {
